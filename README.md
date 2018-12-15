@@ -1,2 +1,4 @@
-# Dressing-Match
-An application to give user suggestions on dressing match based on their current closet. Less money, better looking.  
+# Jill
+Jill is your wardrobe assistant application to give you suggestions on selecting variety of dresses based on your current closet.
+Less money, better looking and alwas, happy to help
+										-- Jill
